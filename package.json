@@ -1,0 +1,12 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kasuladevivijay/async-await.git",
+  "author": "Vijay Kumar <vijay.kasuladevi@ge.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.5"
+  }
+}
