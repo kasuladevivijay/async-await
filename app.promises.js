@@ -1,3 +1,4 @@
+// 
 const users = [{
     id: 1,
     name: 'Vijay Kumar',
@@ -15,6 +16,10 @@ const grades = [{
     id: 2,
     schoolId: 999,
     grade: 100
+},{
+    id: 3,
+    schoolId: 101,
+    grade: 80
 },{
     id: 3,
     schoolId: 101,
